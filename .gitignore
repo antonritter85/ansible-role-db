@@ -1,0 +1,15 @@
+*.log
+*.pyc
+.molecule
+.cache
+.pytest_cache
+*.retry
+venv
+
+.vscode
+
+*.tar
+*.pub
+credentials.json
+google_compute_engine
+secrets.tar
