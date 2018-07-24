@@ -5,6 +5,7 @@
 .pytest_cache
 *.retry
 venv
+__pycache__
 
 .vscode
 
